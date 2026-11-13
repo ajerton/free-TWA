@@ -18,7 +18,7 @@ plugins {
 
 android {
     // 📦 Namespace is for internal resource generation
-    namespace = "com.expirio.app"
+    namespace = "com.expirio.tok"
     
     // 🛠️ SDK version to compile against
     compileSdk = 36 // Note: using 36 as defined, could be libs.versions.compileSdk.get().toInt()
@@ -26,7 +26,7 @@ android {
     defaultConfig {
         // 🚨 IMPORTANT: CHANGE THIS TO YOUR APP'S PACKAGE NAME
         // This is the unique identifier for your app on the Google Play Store.
-        applicationId = "com.expirio.app"
+        applicationId = "com.expirio.tok"
         
         // Minimum Android version required to run this app (API 24 = Android 7.0)
         minSdk = 24

@@ -10,11 +10,11 @@ Generated Android Trusted Web Activity (TWA) project for **Expirio**.
 | --- | --- |
 | App name | Expirio |
 | Short name | exp |
-| Package ID | `com.expirio.app` |
+| Package ID | `com.expirio.tok` |
 | Website URL | https://afatetemia.free.je/ |
 | Verified host | afatetemia.free.je |
 | Description | Expirio |
-| Generated at | 2026-11-13 23:26:57 UTC |
+| Generated at | 2026-11-13 23:28:49 UTC |
 
 ## What This Project Contains
 

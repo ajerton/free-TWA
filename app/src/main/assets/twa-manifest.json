@@ -1,0 +1,9 @@
+{
+    "name": "Expirio",
+    "short_name": "exp",
+    "description": "Expirio",
+    "start_url": "https://afatetemia.free.je/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
